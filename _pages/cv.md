@@ -5,7 +5,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-# [Download Resume](https://chriskhanhtran.github.io/files/20200812-resume.pdf){: .btn .btn--info}
+
+[Download Resume](https://chriskhanhtran.github.io/files/20200812-resume.pdf){: .btn .btn--info}
 
 *Updated: 16/12/2024*
 
