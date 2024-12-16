@@ -1,2 +1,0 @@
-# permadisatya.github.io
-
